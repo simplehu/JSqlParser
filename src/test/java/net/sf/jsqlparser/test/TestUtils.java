@@ -61,7 +61,7 @@ public class TestUtils {
 
     /**
      * Tries to parse and deparse the given statement.
-     *
+     * 断言Sql可以被解析和解包
      * @param statement
      * @param laxDeparsingCheck removes all linefeeds from the original and
      *                          removes all double spaces. The check is
